@@ -10,7 +10,7 @@ A friend who has dyslexia described to me how she experiences reading. She *can*
 
 I remembered reading about [typoglycemia](https://en.wikipedia.org/wiki/Typoglycemia). Wouldn't it be possible to do it interactively on a website with Javascript? Sure it would.
 
-Feel like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github.
+FEEL like making a bookmarklet of this or something? [Fork it](https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md) on github.
 
 Dyslexia is characterized by difficulty with learning to read fluently and with accurate comprehension despite normal intelligence. This includes difficulty with phonological awareness, phonological decoding, processing speed, orthographic coding, auditory short-term memory, language skills/verbal comprehension, and/or rapid naming.
 
